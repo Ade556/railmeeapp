@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345786817242",
+    "project_id": "realmeeapp-3b7b7",
+    "storage_bucket": "realmeeapp-3b7b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345786817242:android:95d352f6e5987de38263e3",
+        "android_client_info": {
+          "package_name": "com.example.railmeeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345786817242-kndsmnhp1r9h2f6o349jkmnck5l56m30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApb_2oRuTvKVmKvLZbYnJSOD76EZwEO8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345786817242-kndsmnhp1r9h2f6o349jkmnck5l56m30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
